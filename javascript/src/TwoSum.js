@@ -1,10 +1,3 @@
-/*
- * @Description: In User Settings Edit
- * @Author: your name
- * @Date: 2019-08-05 13:08:53
- * @LastEditTime: 2019-08-12 13:22:40
- * @LastEditors: Please set LastEditors
- */
 /**
  * @param {number[]} nums
  * @param {number} target
